@@ -5,3 +5,8 @@
 I am currently spending my time developing in C and Python ↗
 
 ### Any comments or questions are more than welcome 😁
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanei1509&show_icons=true&theme=radical)
