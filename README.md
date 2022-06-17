@@ -2,7 +2,7 @@
 
 ### I´m a junior software developer, I hope that my works are of interest to you.
 
-- I am currently spending my time developing in C and Python 💻
+- I am currently learning C, Python, Javascript (my fav) 💻
 
 ### Languages & tools used and in development 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -12,8 +12,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ### You can contact me 📩
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-santiagoneira?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/santiago-neira-4479501b7/)
+[![Email](https://img.shields.io/badge/santiagoneira52@gmail.com-my_personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:santiagoneira52@holbertonschool.com)
 
-- [Linkedin](https://www.linkedin.com/in/santiago-neira-4479501b7/)
+
   Any comments or questions are more than welcome 😄
 
 ---------------------------------------------------------------------------------------------------------------------
