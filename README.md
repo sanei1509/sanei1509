@@ -3,7 +3,7 @@
  # Hi, welcome to everyone! 👋
 
  
-### I´m a junior software developer, I hope that my works are of interest to you.
+### I´m a junior software developer, I hope that my works are of interest for you.
 
 - Im currently masterized react and redux use💻
 
