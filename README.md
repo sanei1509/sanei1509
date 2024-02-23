@@ -2,11 +2,9 @@
   
  # Hi, welcome to everyone! 👋
 
- 
-### I´m a junior software developer, I hope that my works are of interest for you.
+## Currently I am working with Swift UI, working as a Front Developer at cencosud, any question or comment is welcome :)
 
-- Im currently working in cencosud as backend developer with the next technology’s 
-
+### as a software developer, I hope that my works are of interest for you.
 
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
