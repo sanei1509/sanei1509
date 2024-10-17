@@ -2,7 +2,7 @@
   
  # Hi, welcome to everyone! 👋
 
-## Currently I am working with Swift UI, working as a Front Developer at cencosud, any question or comment is welcome :)
+## Currently I am working with NextJS, Javascript, React, working as a Front Developer at ACL, any question or comment is welcome :)
 
 ### as a software developer, I hope that my works are of interest for you.
 
