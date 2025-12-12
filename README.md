@@ -1,11 +1,8 @@
+# Hi, welcome to everyone! 👋
 
-  
- # Hi, welcome to everyone! 👋
+## Currently I am working as a Full Stack Developer at Crowder and AI Developer at Bina Solutions, any question or comment is welcome :)
 
-## Currently I am working with NextJS, Javascript, React, working as a Front Developer at ACL, any question or comment is welcome :)
-
-### as a software developer, I hope that my works are of interest for you.
-
+### Technical Skills
 
 # BACKEND
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,5 +53,6 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sanei1509&show_icons=true&theme=radical">
 
 <img align="" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanei1509&layout=compact">
+
 
 
